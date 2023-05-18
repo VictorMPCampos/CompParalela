@@ -15,3 +15,10 @@ Precisão Paralela = 301 010 digitos corretos;
 Tempo de execução = 0.296s;  
 Speedup = 2.283;  
 Compilar Paralelo: gcc {nome arq} -o {nome exec} -fopenmp -lgmp
+
+Melhor Resultado:  
+2 Threads;  
+Para n = 100 000 000;  
+Precisão arbitrária utilizada = 1 000 000 000 bits;  
+Precisão Paralela = 301 029 996 digitos corretos;  
+Tempo de execução = 1h 4min 44.530s;
